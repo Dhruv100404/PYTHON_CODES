@@ -1,0 +1,40 @@
+Date: 23/2/2023
+Time: 19:28
+Phone Number: <+918866337237>
+Message: Test message from a Python script!
+--------------------
+Date: 23/2/2023
+Time: 19:28
+Phone Number: <+918866337237>
+Message: Test message from a Python script!
+--------------------
+Date: 23/2/2023
+Time: 19:29
+Phone Number: <+918866337237>
+Message: Test message from a Python script!
+--------------------
+Date: 23/2/2023
+Time: 19:29
+Phone Number: <+918866337237>
+Message: Test message from a Python script!
+--------------------
+Date: 23/2/2023
+Time: 19:30
+Phone Number: <+918866337237>
+Message: Test message from a Python script!
+--------------------
+Date: 23/2/2023
+Time: 19:32
+Phone Number: <+918866337237>
+Message: Test message from a Python script!
+--------------------
+Date: 23/2/2023
+Time: 19:39
+Phone Number: +919426544658
+Message: Hi
+--------------------
+Date: 23/2/2023
+Time: 19:40
+Phone Number: +919426544658
+Message: Hi
+--------------------
